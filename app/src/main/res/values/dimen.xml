@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_view">100dp</dimen>
+
+    <dimen name="margin_left">10dp</dimen>
+
+    <dimen name="tv_width">70dp</dimen>
+</resources>
